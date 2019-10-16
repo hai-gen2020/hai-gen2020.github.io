@@ -1,5 +1,1 @@
-# HAI-GEN 2020
-
-Workshop on Human-AI Generation at IUI 2020
-
-
+Recent advances in generative modeling will enable new kinds of user experiences around content creation, giving us "creative superpowers" and move us toward co-creation. This workshop brings together researchers and practitioners from both fields HCI and AI to explore and better understand both the opportunities and challenges of generative modelling from a Human-AI interaction perspective for the creation of both physical and digital artifacts.
