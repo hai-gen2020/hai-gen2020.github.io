@@ -51,7 +51,19 @@ Adam Tauman Kalai, Microsoft Research, Cambridge
 
 ## Program Committee
 
-
+- Nancy Baym, Microsoft Research
+- Zoya Bylinskii, Adobe Research
+- Elizabeth Clark, University of Washington
+- Peter Daalsgard, Aarhus University
+- Sebastian Gehrmann, Harvard School of Engineering
+- Katy Gero, Columbia University
+- Jacquelyn Martino, IBM Research AI
+- Mauro Martino, IBM Research AI
+- Michael Mateas, University of California, Santa Cruz
+- Dafna Shahaf, Hebrew University of Jerusalem
+- Akash Srivastava, IBM Research AI
+- Hendrik Strobelt, IBM Research AI
+- Haiyi Zhu, Carnegie Mellon University
 
 
 
