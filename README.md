@@ -25,7 +25,7 @@ generative design and how these impact research
 
 We are encouraging the submissions of full and short papers following the [IUI Paper Guidelines](https://iui.acm.org/2020/call_for_papers.html). 
 
-We also would like to see demos of generative deep learning systems that highlight co-creation user experiences or other topics listed above. The submission of demos also follows [IUI demo guidelines](https://iui.acm.org/2020/call_for_demo_poster.html)
+We also would like to see demos of generative deep learning systems that highlight co-creation user experiences or other topics listed above. The submission of demos also follows [IUI Demo Guidelines](https://iui.acm.org/2020/call_for_demo_poster.html)
 
 Please submit your papers & demos to EasyChair: []()
 
@@ -33,4 +33,19 @@ Please submit your papers & demos to EasyChair: []()
 
 December 17, 2019: Paper & Demo Submissions Due
 January 14, 2020: Author Notification
-March 17: Workshop Day
+February 18, 2020: Camera-Ready Version of Papers and Demos Due
+March 17: Workshop Day Yay
+
+## Organizing Committee
+
+[Werner Geyer](www.wernergeyer.com), IBM Research AI, Cambridge, MA
+[Lydia Chilton](http://www.cs.columbia.edu/~chilton/), Columbia University
+[Ranjitha Kumar](http://ranjithakumar.net/), University of Illinois at Urbana-Champaign
+Adam Tauman Kalai, Microsoft Research, Cambridge
+
+## Program Committee
+
+
+
+
+
