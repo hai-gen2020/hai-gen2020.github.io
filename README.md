@@ -32,15 +32,21 @@ Please submit your papers & demos to EasyChair: []()
 ## Important Dates
 
 December 17, 2019: Paper & Demo Submissions Due
+
 January 14, 2020: Author Notification
+
 February 18, 2020: Camera-Ready Version of Papers and Demos Due
+
 March 17: Workshop Day Yay
 
 ## Organizing Committee
 
 [Werner Geyer](www.wernergeyer.com), IBM Research AI, Cambridge, MA
+
 [Lydia Chilton](http://www.cs.columbia.edu/~chilton/), Columbia University
+
 [Ranjitha Kumar](http://ranjithakumar.net/), University of Illinois at Urbana-Champaign
+
 Adam Tauman Kalai, Microsoft Research, Cambridge
 
 ## Program Committee
