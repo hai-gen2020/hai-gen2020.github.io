@@ -24,7 +24,7 @@ generative design and how these impact research
 
 ## Submission Guidelines
 
-We are encouraging the submissions of full and short papers following the [IUI Paper Guidelines](https://iui.acm.org/2020/call_for_papers.html). 
+We are encouraging submissions of full and short papers following the [IUI Paper Guidelines](https://iui.acm.org/2020/call_for_papers.html). 
 
 We also would like to see demos of generative deep learning systems that highlight co-creation user experiences or other topics listed above. The submission of demos also follows [IUI Demo Guidelines](https://iui.acm.org/2020/call_for_demo_poster.html)
 
@@ -42,7 +42,7 @@ February 18, 2020: Camera-Ready Version of Papers and Demos Due
 
 March 17: Workshop Day Yay
 
-## Kerynote Speasker(s)
+## Kerynote Speaker(s)
 
 [Douglas Eck](https://ai.google/research/people/author39086/), Google AI, Magenta Team
 
