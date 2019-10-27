@@ -41,7 +41,7 @@ March 17: Workshop Day Yay
 
 ## Organizing Committee
 
-[Werner Geyer](www.wernergeyer.com), IBM Research AI, Cambridge, MA
+[Werner Geyer](http://www.wernergeyer.com), IBM Research AI, Cambridge, MA
 
 [Lydia Chilton](http://www.cs.columbia.edu/~chilton/), Columbia University
 
