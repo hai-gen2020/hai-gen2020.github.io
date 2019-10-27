@@ -1,4 +1,4 @@
-## Workshop on Human-AI Co-Creation with Generative Models, IUI 2020, Cagliari, Italy &nbsp Tuesday, March 17, 8:30 AM - 12:30 PM
+## Workshop on Human-AI Co-Creation with Generative Models, IUI 2020, Cagliari, Italy | Tuesday, March 17, 8:30 AM - 12:30 PM
 
 
 ### Introduction
