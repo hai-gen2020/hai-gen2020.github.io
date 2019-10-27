@@ -27,13 +27,15 @@ generative design and how these impact research
 
 ### Submission Guidelines
 
-We are encouraging submissions of full and short papers following the [IUI Paper Guidelines](https://iui.acm.org/2020/call_for_papers.html). 
+We are encouraging submissions of **full and short papers** following the [IUI Paper Guidelines](https://iui.acm.org/2020/call_for_papers.html). 
 
-We also would like to see demos of generative deep learning systems that highlight co-creation user experiences or other topics listed above. The submission of demos also follows [IUI Demo Guidelines](https://iui.acm.org/2020/call_for_demo_poster.html).
+We also would like to see **demos** of generative deep learning systems that highlight co-creation user experiences or other topics listed above. The submission of demos also follows [IUI Demo Guidelines](https://iui.acm.org/2020/call_for_demo_poster.html).
+
+All papers will be peer reviewed, single blind (i.e. author names and affiliations should be listed). If accepted, at least one of the authors must attend the workshop to present the work.
+
+A workshop summary will be included in the ACM Digital Library for IUI 2020. While papers and demos are not part of the archival ACM IUI proceedings, we will be published them online at [CEUR Workshop Proceedings](http://ceur-ws.org/).
 
 Please submit your papers & demos to EasyChair: []()
-
-Papers and demos will be published at [CEUR Workshop Proceedings](http://ceur-ws.org/)
 
 ### Important Dates
 
