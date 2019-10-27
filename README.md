@@ -66,6 +66,7 @@ March 17: Workshop Day Yay
 - Dafna Shahaf, Hebrew University of Jerusalem
 - Akash Srivastava, IBM Research AI
 - Hendrik Strobelt, IBM Research AI
+- Steven Wu, University of Minnesota
 - Haiyi Zhu, Carnegie Mellon University
 
 
