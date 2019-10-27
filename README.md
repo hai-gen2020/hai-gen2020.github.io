@@ -56,15 +56,19 @@ March 17: Workshop Day Yay
 
 - Nancy Baym, Microsoft Research
 - Zoya Bylinskii, Adobe Research
+- Carrie Cai, Google
 - Peter Daalsgard, Aarhus University
 - Sebastian Gehrmann, Harvard School of Engineering
 - Katy Gero, Columbia University
+- Per Ola Kristensson, University of Cambridge
 - Jacquelyn Martino, IBM Research AI
 - Mauro Martino, IBM Research AI
 - Michael Mateas, University of California, Santa Cruz
+- Antii Oulasvirta, Aalto University
 - Dafna Shahaf, Hebrew University of Jerusalem
 - Akash Srivastava, IBM Research AI
 - Hendrik Strobelt, IBM Research AI
+- Michael Terry, Google
 - Steven Wu, University of Minnesota
 - Haiyi Zhu, Carnegie Mellon University
 
