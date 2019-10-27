@@ -20,3 +20,11 @@ fake detection
 - User studies
 - Lessons learned from computational art and design, and
 generative design and how these impact research
+
+## Submission Guidelines
+
+We are encouraging the submissions of full and short papers following the [IUI Paper Guidelines](https://iui.acm.org/2020/call_for_papers.html). 
+
+We also would like to see demos of generative deep learning systems that highlight co-creation user experiences or other topics listed above. The submission of demos also follows [IUI demo guidelines](https://iui.acm.org/2020/call_for_demo_poster.html)
+
+Please submit your papers & demos to EasyChair: []()
