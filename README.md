@@ -4,3 +4,19 @@ The goal of this workshop is to bring together researchers and practitioners fro
 understand both the opportunities and challenges of generative modelling from an HCI perspective. We envision that the user experience of creating both physical and digital artifacts will become a partnership of humans and AI: Humans will take the role of specification, goal setting, steering, high-level creativity, curation, and governance. AI will augment human abilities through inspiration, low level creativity and detail work, and the ability to test ideas at scale.
 
 Submissions are encouraged but not limited to the following topics:
+
+- Novel user experiences supporting the creation of both physical
+and digital artifacts in an AI augmented fashion
+- Business use cases of generative models
+- Novel applications of generative models
+- Techniques, methodologies & algorithms that enable new
+user experiences and interactions with generative models
+and allow for directed and purposeful manipulation of the
+model output
+- Governance, privacy, content ownership
+- Security including forensic tools and approaches for deep
+fake detection
+- Evaluation of generative approaches and quality metrics
+- User studies
+- Lessons learned from computational art and design, and
+generative design and how these impact research
