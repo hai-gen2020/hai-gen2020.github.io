@@ -1,5 +1,4 @@
-### IUI2020, Cagliari, Italy 
-### Tuesday, March 17, 8:30 AM - 12:30 PM
+### Cagliari, Italy, Tuesday, March 17
 <br/>
 
 ### Introduction
