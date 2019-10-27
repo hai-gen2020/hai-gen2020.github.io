@@ -28,3 +28,9 @@ We are encouraging the submissions of full and short papers following the [IUI P
 We also would like to see demos of generative deep learning systems that highlight co-creation user experiences or other topics listed above. The submission of demos also follows [IUI demo guidelines](https://iui.acm.org/2020/call_for_demo_poster.html)
 
 Please submit your papers & demos to EasyChair: []()
+
+## Important Dates
+
+December 17, 2019: Paper & Demo Submissions Due
+January 14, 2020: Author Notification
+March 17: Workshop Day
