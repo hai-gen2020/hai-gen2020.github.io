@@ -56,7 +56,6 @@ March 17: Workshop Day Yay
 
 - Nancy Baym, Microsoft Research
 - Zoya Bylinskii, Adobe Research
-- Elizabeth Clark, University of Washington
 - Peter Daalsgard, Aarhus University
 - Sebastian Gehrmann, Harvard School of Engineering
 - Katy Gero, Columbia University
