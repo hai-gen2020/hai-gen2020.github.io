@@ -30,6 +30,8 @@ We also would like to see demos of generative deep learning systems that highlig
 
 Please submit your papers & demos to EasyChair: []()
 
+Papers and demos will be published at [CEUR Workshop Proceedings](http://ceur-ws.org/)
+
 ## Important Dates
 
 December 17, 2019: Paper & Demo Submissions Due
@@ -40,14 +42,15 @@ February 18, 2020: Camera-Ready Version of Papers and Demos Due
 
 March 17: Workshop Day Yay
 
+## Kerynote Speasker(s)
+
+[Douglas Eck](https://ai.google/research/people/author39086/), Google AI, Magenta Team
+
 ## Organizing Committee
 
 - [Werner Geyer](http://www.wernergeyer.com), IBM Research AI, Cambridge, MA
-
 - [Lydia Chilton](http://www.cs.columbia.edu/~chilton/), Columbia University
-
 - [Ranjitha Kumar](http://ranjithakumar.net/), University of Illinois at Urbana-Champaign
-
 - Adam Tauman Kalai, Microsoft Research, Cambridge, MA
 
 ## Program Committee
