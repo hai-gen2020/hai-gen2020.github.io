@@ -41,13 +41,13 @@ March 17: Workshop Day Yay
 
 ## Organizing Committee
 
-[Werner Geyer](http://www.wernergeyer.com), IBM Research AI, Cambridge, MA
+- [Werner Geyer](http://www.wernergeyer.com), IBM Research AI, Cambridge, MA
 
-[Lydia Chilton](http://www.cs.columbia.edu/~chilton/), Columbia University
+- [Lydia Chilton](http://www.cs.columbia.edu/~chilton/), Columbia University
 
-[Ranjitha Kumar](http://ranjithakumar.net/), University of Illinois at Urbana-Champaign
+- [Ranjitha Kumar](http://ranjithakumar.net/), University of Illinois at Urbana-Champaign
 
-Adam Tauman Kalai, Microsoft Research, Cambridge
+- Adam Tauman Kalai, Microsoft Research, Cambridge, MA
 
 ## Program Committee
 
