@@ -29,7 +29,7 @@ All papers will be peer reviewed, single blind (i.e. author names and affiliatio
 
 A workshop summary will be included in the ACM Digital Library for IUI 2020. While papers and demos are not part of the archival ACM IUI proceedings, we will be published them online at [CEUR Workshop Proceedings](http://ceur-ws.org/).
 
-Please submit your papers & demos to EasyChair: []()
+Please submit your papers & demos to EasyChair: [https://easychair.org/my/conference?conf=haigen2020#](https://easychair.org/my/conference?conf=haigen2020#)
 
 ### Important Dates
 
