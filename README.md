@@ -52,6 +52,8 @@ March 17: Workshop Day Yay
 - [Ranjitha Kumar](http://ranjithakumar.net/), University of Illinois at Urbana-Champaign
 - [Adam Tauman Kalai](http://research.microsoft.com/~adum), Microsoft Research, Cambridge, MA
 
+Contact: hai-gen2020@service.microsoft.com
+
 ### Program Committee
 
 - Nancy Baym, Microsoft Research
