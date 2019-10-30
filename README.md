@@ -33,7 +33,7 @@ Please submit your papers & demos to EasyChair: [https://easychair.org/my/confer
 
 ### Important Dates
 
-December 17, 2019: Paper & Demo Submissions Due
+December 20, 2019: Paper & Demo Submissions Due
 
 January 14, 2020: Author Notification
 
