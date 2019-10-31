@@ -78,5 +78,5 @@ March 17: Workshop Day Yay
 - Steven Wu, University of Minnesota
 - Haiyi Zhu, Carnegie Mellon University
 
-
+![GANPaint1](/assets/GAN_Paint-1.png)![GANPaint2](/assets/GAN_Paint-2.png)
 
