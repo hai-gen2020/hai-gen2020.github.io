@@ -25,6 +25,10 @@ fake detection
 - Lessons learned from computational art and design, and
 generative design and how these impact research
 
+<img src="/assets/GAN_Paint-1.png" alt="GANPaint1" width="300"/><img src="/assets/GAN_Paint-2.png" alt="GANPaint2" width="300"/>
+
+Cathedral in Cagliari, Sardinia altered with [GANPaint Studio](http://ganpaint.io)
+
 ### Submission Guidelines
 
 We are encouraging submissions of **full and short papers** following the [IUI Paper Guidelines](https://iui.acm.org/2020/call_for_papers.html) as well as **demos** of generative deep learning systems that highlight co-creation user experiences or other topics listed above. The submission of demos also follows [IUI Demo Guidelines](https://iui.acm.org/2020/call_for_demo_poster.html).
@@ -78,5 +82,3 @@ March 17: Workshop Day Yay
 - Steven Wu, University of Minnesota
 - Haiyi Zhu, Carnegie Mellon University
 
-<img src="/assets/GAN_Paint-1.png" alt="GANPaint1" width="300"/><img src="/assets/GAN_Paint-2.png" alt="GANPaint2" width="300"/>
-Cathedral in Cagliari, Sardinia altered with [GANStudio](http://ganpaint.io)
