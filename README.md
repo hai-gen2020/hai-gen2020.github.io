@@ -78,5 +78,5 @@ March 17: Workshop Day Yay
 - Steven Wu, University of Minnesota
 - Haiyi Zhu, Carnegie Mellon University
 
-![GANPaint2](/assets/GAN_Paint-2.png)
-<img src="/assets/GAN_Paint-1.png" alt="GANPaint1" width="200"/>
+<img src="/assets/GAN_Paint-1.png" alt="GANPaint1" width="300"/><img src="/assets/GAN_Paint-2.png" alt="GANPaint2" width="300"/>
+Cathedral in Cagliari, Sardinia altered with [GANStudio](http://ganpaint.io)
