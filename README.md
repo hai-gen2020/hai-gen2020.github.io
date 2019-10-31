@@ -1,4 +1,4 @@
-<img src="/assets/cagliari_1.jpg" alt="Cagliari1" width="700"/>
+<img src="/assets/cagliari_1.jpg" alt="Cagliari1" width="600"/>
 
 Bastione San Remy, Cagliari, Italy
 
