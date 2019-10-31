@@ -27,7 +27,7 @@ generative design and how these impact research
 
 <img src="/assets/GAN_Paint-1.png" alt="GANPaint1" width="300"/><img src="/assets/GAN_Paint-2.png" alt="GANPaint2" width="300"/>
 
-Cathedral in Cagliari, Sardinia altered with [GANPaint Studio](http://ganpaint.io)
+Cathedral in Cagliari, Sardinia, Co-Creation Experience with [GANPaint Studio](http://ganpaint.io)
 
 ### Submission Guidelines
 
