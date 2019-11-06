@@ -74,7 +74,7 @@ March 17: Workshop Day Yay
 - Jacquelyn Martino, IBM Research AI
 - Mauro Martino, IBM Research AI
 - Michael Mateas, University of California, Santa Cruz
-- Antii Oulasvirta, Aalto University
+- Antti Oulasvirta, Aalto University
 - Dafna Shahaf, Hebrew University of Jerusalem
 - Akash Srivastava, IBM Research AI
 - Hendrik Strobelt, IBM Research AI
