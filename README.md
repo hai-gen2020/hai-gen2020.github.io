@@ -29,6 +29,30 @@ generative design and how these impact research
 
 Cathedral in Cagliari, Sardinia, Co-Creation Experience with [GANPaint Studio](http://ganpaint.io) by Hendrik Strobelt et al.
 
+### Accepted Submissions ###
+
+**Business (mis)Use Cases of Generative AI**
+Stephanie Houde, Vera Liao, Jacquelyn Martino, Michael Muller, David Piorkowski, John Richards, Justin Weisz and Yunfeng Zhang
+
+**Novice-AI Music Co-Creation via AI-Steering Tools for Deep Generative Models**
+Ryan Louie, Andy Coenen, Cheng-Zhi Anna Huang, Michael Terry and Carrie Cai
+
+**Latent Chords: Generative Piano Chord Synthesis with Variational Autoencoders**
+Agustin Macaya, Manuel Cartagena, Rodrigo Cadiz and Denis Parra
+
+**How Novelists Use Generative Language Models: An Exploratory User Study**
+Alex Calderwood, Katy Ilonka Gero and Lydia B. Chilton
+
+**Demo: Literary Style Transfer with Content Preservation**
+Katy Gero, Chris Kedzie and Lydia B. Chilton
+  
+**Guest paper: Draw with Me: Human-in-the-Loop for Image Restoration**
+Thomas Weber, Zhiwei Han, Stefan Matthes, Yuanting Liu and Heinrich Hussmann
+
+### Agenda ###
+
+TBD
+
 ### Submission Guidelines
 
 We are encouraging submissions of **full and short papers** following the [IUI Paper Guidelines](https://iui.acm.org/2020/call_for_papers.html) as well as **demos** of generative deep learning systems that highlight co-creation user experiences or other topics listed above. The submission of demos also follows [IUI Demo Guidelines](https://iui.acm.org/2020/call_for_demo_poster.html).
