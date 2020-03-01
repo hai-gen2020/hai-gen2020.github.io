@@ -51,11 +51,11 @@ Thomas Weber, Zhiwei Han, Stefan Matthes, Yuanting Liu and Heinrich Hussmann
 
 ### Agenda ###
 
- 9:00 - 9:15 	Opening & Introductions
+#### 9:00 - 9:15 	Opening & Introductions ####
 
- 9:15 - 10:00 	Keynote by Douglas Eck: **Challenges in Building ML Algorithms for the Creative Community**
+#### 9:15 - 10:00 	Keynote by Douglas Eck: Challenges in Building ML Algorithms for the Creative Community ####
 
-10:00 - 10:30 	Session 1:
+#### 10:00 - 10:30 	Session 1 ####
 
 [15 mins] **Latent Chords: Generative Piano Chord Synthesis with Variational Autoencoders** 
 Agustin Macaya, Manuel Cartagena, Rodrigo Cadiz and Denis Parra
@@ -63,11 +63,12 @@ Agustin Macaya, Manuel Cartagena, Rodrigo Cadiz and Denis Parra
 [15 mins] **Novice-AI Music Co-Creation via AI-Steering Tools for Deep Generative Models** 
 Ryan Louie, Andy Coenen, Cheng-Zhi Anna Huang, Michael Terry and Carrie Cai 
 
-10:30 - 11:00 	Coffee Break
+#### 10:30 - 11:00 	Coffee Break ####
 
-11:00 - 12:10 	Session 2: 
+#### 11:00 - 12:10 	Session 2 #### 
 
 Paper & Demo
+
 [15 mins] **How Novelists Use Generative Language Models: An Exploratory User Study** 
 Alex Calderwood, Katy Ilonka Gero and Lydia B. Chilton
 
@@ -88,7 +89,21 @@ The Dark Side
 [15 mins] **Business (mis)Use Cases of Generative AI** 
 Stephanie Houde, Vera Liao, Jacquelyn Martino, Michael Muller, David Piorkowski, John Richards, Justin Weisz and Yunfeng Zhang
 
-12:10 - 12:30	Closing / Wrap-Up
+#### 12:10 - 12:30	Closing / Wrap-Up ####
+
+### Keynote
+
+#### Challenges in Building ML Algorithms for the Creative Community ####
+
+[Douglas Eck](https://ai.google/research/people/author39086/), Google AI, Magenta Team
+
+#### Abstract ####
+Magenta is an open-source project exploring the role of machine learning as a tool in the creative process.We've been running in public (g.co/magenta) for almost four years. This talk will look back at successes and frustrations in bringing our work to creators, mostly musicians. I'll also talk about some current and future work.  Magenta is made up of several ML researchers and engineers on the Google Brain team, which focuses on deep learning. Our successes have mostly been in the area of new algorithm development (NSynth, MusicVAE, Music Transformer, DDSP and others). Our frustrations have been in finding ways to make these models useful for music creators. The talk will be a casual example-driven discussion about what worked and what didn't, and where we're going next. Spoiler: we have been humbled by the user interface challenges encountered when building tools for creative work. However we think we're turned the corner on this, in no small part thanks to more engagements with HCI experts like those who attend IUI.
+
+
+#### Bio ####
+Douglas Eck is a Principal Scientist at Google Research, currently working in the Paris office. He is leading the Magenta Project, a Google Brain effort to create music, video, images and text using deep learning and reinforcement learning. He is also exploring related research in generative models for domains like open-ended dialog and video generation.  Before focusing on generative models for media, Doug worked in areas such as music perception, aspects of music performance, machine learning for large audio datasets and music recommendation. He completed his PhD in Computer Science and Cognitive Science at Indiana University in 2000 and went on to a postdoctoral fellowship with Juergen Schmidhuber at IDSIA in Lugano Switzerland. Before joining Google in 2010, Doug was faculty in Computer Science at the University of Montreal (MILA machine learning lab) where he became Associate Professor. 
+
 
 ### Submission Guidelines
 
@@ -110,9 +125,7 @@ February 18, 2020: Camera-Ready Version of Papers and Demos Due
 
 March 17: Workshop Day Yay
 
-### Kerynote Speaker(s)
 
-[Douglas Eck](https://ai.google/research/people/author39086/), Google AI, Magenta Team
 
 ### Organizing Committee
 
