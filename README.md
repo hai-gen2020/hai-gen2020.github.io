@@ -3,11 +3,11 @@
 
 ### Agenda ###
 
-#### 9:00 - 9:15 	Opening & Introductions ####
+**9:00 - 9:15 	Opening & Introductions**
 
-#### 9:15 - 10:00 	Keynote by Douglas Eck: Challenges in Building ML Algorithms for the Creative Community ####
+**9:15 - 10:00 	Keynote by Douglas Eck: Challenges in Building ML Algorithms for the Creative Community**
 
-#### 10:00 - 10:30 	Session 1 ####
+**10:00 - 10:30 	Session 1**
 
 [15 mins] **Latent Chords: Generative Piano Chord Synthesis with Variational Autoencoders** 
 Agustin Macaya, Manuel Cartagena, Rodrigo Cadiz and Denis Parra
@@ -15,9 +15,9 @@ Agustin Macaya, Manuel Cartagena, Rodrigo Cadiz and Denis Parra
 [15 mins] **Novice-AI Music Co-Creation via AI-Steering Tools for Deep Generative Models** 
 Ryan Louie, Andy Coenen, Cheng-Zhi Anna Huang, Michael Terry and Carrie Cai 
 
-#### 10:30 - 11:00 	Coffee Break ####
+**10:30 - 11:00 	Coffee Break**
 
-#### 11:00 - 12:10 	Session 2 #### 
+##### 11:00 - 12:10 	Session 2 #####
 
 Paper & Demo
 
