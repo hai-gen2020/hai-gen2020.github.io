@@ -17,7 +17,7 @@ Ryan Louie, Andy Coenen, Cheng-Zhi Anna Huang, Michael Terry and Carrie Cai
 
 **10:30 - 11:00 	Coffee Break**
 
-##### 11:00 - 12:10 	Session 2 #####
+**11:00 - 12:10 	Session 2**
 
 Paper & Demo
 
@@ -41,7 +41,7 @@ The Dark Side
 [15 mins] **Business (mis)Use Cases of Generative AI** 
 Stephanie Houde, Vera Liao, Jacquelyn Martino, Michael Muller, David Piorkowski, John Richards, Justin Weisz and Yunfeng Zhang
 
-#### 12:10 - 12:30	Closing / Wrap-Up ####
+**12:10 - 12:30	Closing / Wrap-Up**
 
 ### Keynote
 
