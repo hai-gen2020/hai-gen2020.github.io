@@ -47,6 +47,7 @@ Stephanie Houde, Vera Liao, Jacquelyn Martino, Michael Muller, David Piorkowski,
 
 #### Challenges in Building ML Algorithms for the Creative Community ####
 
+<img src="/assets/douglas-eck.jpeg" alt="Doug" width="150" alignb="left"/>
 [Douglas Eck](https://ai.google/research/people/author39086/), Google AI, Magenta Team
 
 #### Abstract ####
