@@ -1,4 +1,6 @@
 
+**With IUI cancelled, we are trying to hold this workshop online. Please stay tuned. We will get back to you asap when we have more clarity. Likely it will be on the same day, March 17 but East Coast time zone.**
+
 
 
 ### Agenda ###
