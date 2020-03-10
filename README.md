@@ -1,29 +1,27 @@
 
-**With IUI cancelled, we are trying to hold this workshop online. Please stay tuned. We will get back to you asap when we have more clarity. Likely it will be on the same day, March 17 but East Coast time zone.**
-
-
+**This workshop will be held virtually on March 17 East Coast time zone.**
 
 ### Agenda ###
 
-**9:00 - 9:15 	Opening & Introductions**
+**9:00 - 9:25 	Opening & Introductions**
 
-**9:15 - 10:00 	Keynote by Douglas Eck: Challenges in Building ML Algorithms for the Creative Community**
+**9:25 - 10:10 	Keynote by Douglas Eck: Challenges in Building ML Algorithms for the Creative Community**
 
-**10:00 - 10:30 	Session 1**
+**10:10 - 10:50 	Session 1**
 
-[15 mins] **Latent Chords: Generative Piano Chord Synthesis with Variational Autoencoders** 
+[20 mins] **Latent Chords: Generative Piano Chord Synthesis with Variational Autoencoders** 
 Agustin Macaya, Manuel Cartagena, Rodrigo Cadiz and Denis Parra
 
-[15 mins] **Novice-AI Music Co-Creation via AI-Steering Tools for Deep Generative Models** 
+[20 mins] **Novice-AI Music Co-Creation via AI-Steering Tools for Deep Generative Models** 
 Ryan Louie, Andy Coenen, Cheng-Zhi Anna Huang, Michael Terry and Carrie Cai 
 
-**10:30 - 11:00 	Coffee Break**
+**10:50 - 11:20 	Coffee Break**
 
-**11:00 - 12:10 	Session 2**
+**11:20 - 12:30 	Session 2**
 
 Paper & Demo
 
-[15 mins] **How Novelists Use Generative Language Models: An Exploratory User Study** 
+[20 mins] **How Novelists Use Generative Language Models: An Exploratory User Study** 
 Alex Calderwood, Katy Ilonka Gero and Lydia B. Chilton
 
 [10 mins] **Demo: Literary Style Transfer with Content Preservation** 
@@ -31,19 +29,22 @@ Katy Gero, Chris Kedzie and Lydia B. Chilton
 
 Invited Guest Speakers
 
-[15 mins] **Draw with Me: Human-in-the-Loop for Image Restoration** 
+[20 mins] **Draw with Me: Human-in-the-Loop for Image Restoration** 
 Thomas Weber, Zhiwei Han, Stefan Matthes, Yuanting Liu and Heinrich Hussmann
 
-[15 mins] **Creative Sketching Partner: An Analysis of Human-AI Co-Creativity**
+[20 mins] **Creative Sketching Partner: An Analysis of Human-AI Co-Creativity**
 Pegah Karimi, Jeba Rezwana, Safat Siddiqui, Mary Lou Maher, Nasrin Dehbozorgi
 
+**12:30 - 14:00 Lunch**
 
-The Dark Side
+**14:00 - 14:45 Keynote by Hendrik Strobelt: **
 
-[15 mins] **Business (mis)Use Cases of Generative AI** 
+**14:45 - 15:05 	Session 2 The Dark Side **
+
+[20 mins] **Business (mis)Use Cases of Generative AI** 
 Stephanie Houde, Vera Liao, Jacquelyn Martino, Michael Muller, David Piorkowski, John Richards, Justin Weisz and Yunfeng Zhang
 
-**12:10 - 12:30	Closing / Wrap-Up**
+**15:05 - 15:30	Closing / Wrap-Up**
 
 ### Keynote
 
