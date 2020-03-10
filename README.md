@@ -7,7 +7,7 @@
 
 **9:25 - 10:10 	Keynote by Douglas Eck: Challenges in Building ML Algorithms for the Creative Community**
 
-**10:10 - 10:50 	Session 1 - Generative Music **
+**10:10 - 10:50 	Session 1 - Generative Music**
 
 [20 mins] **Latent Chords: Generative Piano Chord Synthesis with Variational Autoencoders** 
 Agustin Macaya, Manuel Cartagena, Rodrigo Cadiz and Denis Parra
