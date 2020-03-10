@@ -7,7 +7,7 @@
 
 **9:25 - 10:10 	Keynote by Douglas Eck: Challenges in Building ML Algorithms for the Creative Community**
 
-**10:10 - 10:50 	Session 1**
+**10:10 - 10:50 	Session 1 - Generative Music **
 
 [20 mins] **Latent Chords: Generative Piano Chord Synthesis with Variational Autoencoders** 
 Agustin Macaya, Manuel Cartagena, Rodrigo Cadiz and Denis Parra
@@ -17,7 +17,7 @@ Ryan Louie, Andy Coenen, Cheng-Zhi Anna Huang, Michael Terry and Carrie Cai
 
 **10:50 - 11:20 	Coffee Break**
 
-**11:20 - 12:30 	Session 2**
+**11:20 - 12:30 	Session 2 - Generative Text, Images, and Drawing **
 
 Paper & Demo
 
@@ -39,7 +39,7 @@ Pegah Karimi, Jeba Rezwana, Safat Siddiqui, Mary Lou Maher, Nasrin Dehbozorgi
 
 **14:00 - 14:45 Keynote by Hendrik Strobelt: **
 
-**14:45 - 15:05 	Session 2 The Dark Side **
+**14:45 - 15:05 	Session 2 - The Dark Side of Generative Approaches **
 
 [20 mins] **Business (mis)Use Cases of Generative AI** 
 Stephanie Houde, Vera Liao, Jacquelyn Martino, Michael Muller, David Piorkowski, John Richards, Justin Weisz and Yunfeng Zhang
