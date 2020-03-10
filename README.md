@@ -39,7 +39,7 @@ Pegah Karimi, Jeba Rezwana, Safat Siddiqui, Mary Lou Maher, Nasrin Dehbozorgi
 
 **14:00 - 14:45 Keynote by Hendrik Strobelt:**
 
-**14:45 - 15:05 	Session 2 - The Dark Side of Generative Approaches**
+**14:45 - 15:05 	Session 3 - The Dark Side of Generative Approaches**
 
 [20 mins] **Business (mis)Use Cases of Generative AI** 
 Stephanie Houde, Vera Liao, Jacquelyn Martino, Michael Muller, David Piorkowski, John Richards, Justin Weisz and Yunfeng Zhang
