@@ -1,5 +1,5 @@
 
-**This workshop will be held virtually on March 17 East Coast time zone (EST).**
+**This workshop will be held virtually on March 17 East Coast time zone (EST) starting 9 AM EST.**
 Use the [Time Zone Converter](https://www.timeanddate.com/worldclock/converter.html?iso=20200317T130000&p1=346&p2=43&p3=37&p4=248&p5=102&p6=7&p7=256) if in doubt. We changed to daylight savings time last weekend.
 
 ### Agenda ###
