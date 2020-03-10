@@ -17,7 +17,7 @@ Ryan Louie, Andy Coenen, Cheng-Zhi Anna Huang, Michael Terry and Carrie Cai
 
 **10:50 - 11:20 	Coffee Break**
 
-**11:20 - 12:30 	Session 2 - Generative Text, Images, and Drawing **
+**11:20 - 12:30 	Session 2 - Generative Text, Images, and Drawing**
 
 Paper & Demo
 
@@ -37,9 +37,9 @@ Pegah Karimi, Jeba Rezwana, Safat Siddiqui, Mary Lou Maher, Nasrin Dehbozorgi
 
 **12:30 - 14:00 Lunch**
 
-**14:00 - 14:45 Keynote by Hendrik Strobelt: **
+**14:00 - 14:45 Keynote by Hendrik Strobelt:**
 
-**14:45 - 15:05 	Session 2 - The Dark Side of Generative Approaches **
+**14:45 - 15:05 	Session 2 - The Dark Side of Generative Approaches**
 
 [20 mins] **Business (mis)Use Cases of Generative AI** 
 Stephanie Houde, Vera Liao, Jacquelyn Martino, Michael Muller, David Piorkowski, John Richards, Justin Weisz and Yunfeng Zhang
