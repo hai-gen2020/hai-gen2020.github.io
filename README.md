@@ -13,7 +13,7 @@ Use the [Time Zone Converter](https://www.timeanddate.com/worldclock/converter.h
 [20 mins] **Latent Chords: Generative Piano Chord Synthesis with Variational Autoencoders** 
 Agustin Macaya, Manuel Cartagena, Rodrigo Cadiz and Denis Parra
 
-[20 mins] **Novice-AI Music Co-Creation via AI-Steering Tools for Deep Generative Models** 
+[20 mins] **Cococo: AI-Steering Tools for Music Novices Co-Creating with Generative Models** 
 Ryan Louie, Andy Coenen, Cheng-Zhi Anna Huang, Michael Terry and Carrie Cai 
 
 **10:50 - 11:20 	Coffee Break**
