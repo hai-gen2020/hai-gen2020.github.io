@@ -6,7 +6,7 @@ Use the [Time Zone Converter](https://www.timeanddate.com/worldclock/converter.h
 
 **9:00 - 9:25 	Opening & Introductions**
 
-**9:25 - 10:10 	Keynote by Douglas Eck: Challenges in Building ML Algorithms for the Creative Community**
+**9:25 - 10:10 	Keynote 1 by Douglas Eck: Challenges in Building ML Algorithms for the Creative Community**
 
 **10:10 - 10:50 	Session 1 - Generative Music**
 
@@ -38,7 +38,7 @@ Pegah Karimi, Jeba Rezwana, Safat Siddiqui, Mary Lou Maher, Nasrin Dehbozorgi
 
 **12:30 - 14:00 Lunch**
 
-**14:00 - 14:45 Keynote by Hendrik Strobelt:**
+**14:00 - 14:45 Keynote 2 by Hendrik Strobelt: Visual Human-AI collaboration tools** 
 
 **14:45 - 15:05 	Session 3 - The Dark Side of Generative Approaches**
 
@@ -47,7 +47,7 @@ Stephanie Houde, Vera Liao, Jacquelyn Martino, Michael Muller, David Piorkowski,
 
 **15:05 - 15:30	Closing / Wrap-Up**
 
-### Keynote
+### Keynote 1
 
 #### Challenges in Building ML Algorithms for the Creative Community ####
 
@@ -60,6 +60,24 @@ Magenta is an open-source project exploring the role of machine learning as a to
 
 #### Bio ####
 Douglas Eck is a Principal Scientist at Google Research, currently working in the Paris office. He is leading the Magenta Project, a Google Brain effort to create music, video, images and text using deep learning and reinforcement learning. He is also exploring related research in generative models for domains like open-ended dialog and video generation.  Before focusing on generative models for media, Doug worked in areas such as music perception, aspects of music performance, machine learning for large audio datasets and music recommendation. He completed his PhD in Computer Science and Cognitive Science at Indiana University in 2000 and went on to a postdoctoral fellowship with Juergen Schmidhuber at IDSIA in Lugano Switzerland. Before joining Google in 2010, Doug was faculty in Computer Science at the University of Montreal (MILA machine learning lab) where he became Associate Professor. 
+
+### Keynote 2
+
+#### Visual Human-AI collaboration tools  ####
+
+<img src="/assets/hendrik.jpeg" alt="Doug" width="150" alignb="left"/>
+[Hendrik Strobelt](http://hendrik.strobelt.com/), IBM Research AI, Visual AI Lab
+
+#### Abstract ####
+While there is a fear of loss of human agency for the future of AI, we want to provide tools and frameworks to maximize the synergies of human capabilities and AI capabilities. In this talk, I will show examples of human-AI collaboration tools for generating content (using a GAN) and analyzing content (using an NLP model). Finally, I will present a framework, called collaborative semantic inference, that can be a guide for future human-AI systems.
+
+
+#### Bio ####
+Hendrik joined IBM Research in 2017 after postdocs at Harvard SEAS and New York University. He holds a Ph.D. from the University of Konstanz and an MSc (Diplom) from the University of Technology in Dresden. He received multiple awards for publications in the field of information visualization and received the Lohrman medal (highest student honor) from TU Dresden. His research focuses on visualization, visual analytics for AI, NLP, and biomedical data - recently also human-AI collaboration approaches. He is a visiting researcher at MIT 
+
+
+
+
 
 <img src="/assets/babel_InceptionV1_caffe_inception_4a_output.jpg" alt="Babel" width="500" alignb="center"/>
 
