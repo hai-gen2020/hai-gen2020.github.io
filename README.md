@@ -65,7 +65,7 @@ Douglas Eck is a Principal Scientist at Google Research, currently working in th
 
 #### Visual Human-AI collaboration tools  ####
 
-<img src="/assets/hendrik.jpeg" alt="Doug" width="150" alignb="left"/>
+<img src="/assets/hendrik.jpeg" alt="Hendrik" width="150" alignb="left"/>
 [Hendrik Strobelt](http://hendrik.strobelt.com/), IBM Research AI, Visual AI Lab
 
 #### Abstract ####
