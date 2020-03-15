@@ -7,9 +7,11 @@ Use the [Time Zone Converter](https://www.timeanddate.com/worldclock/converter.h
 **9:00 - 9:25 	Opening & Introductions**
 
 **9:25 - 10:10 	Keynote 1 by Douglas Eck: Challenges in Building ML Algorithms for the Creative Community**
+
 *Session Chair: Werner Geyer*
 
 **10:10 - 10:50 	Session 1 - Generative Music**
+
 *Session Chair: Lydia Chilton*
 
 [20 mins] **Cococo: AI-Steering Tools for Music Novices Co-Creating with Generative Models** 
@@ -21,6 +23,7 @@ Agustin Macaya, Manuel Cartagena, Rodrigo Cadiz and Denis Parra
 **10:50 - 11:20 	Coffee Break**
 
 **11:20 - 12:30 	Session 2 - Generative Text, Images, and Drawing**
+
 *Session Chair: Adam Tauman Kalai*
 
 Paper & Demo
@@ -42,9 +45,11 @@ Pegah Karimi, Jeba Rezwana, Safat Siddiqui, Mary Lou Maher, Nasrin Dehbozorgi
 **12:30 - 14:00 Lunch**
 
 **14:00 - 14:45 Keynote 2 by Hendrik Strobelt: Visual Human-AI collaboration tools** 
+
 *Session Chair: Ranjitha Kumar*
 
 **14:45 - 15:05 	Session 3 - The Dark Side of Generative Approaches**
+
 *Session Chair: Ranjitha Kumar*
 
 [20 mins] **Business (mis)Use Cases of Generative AI** 
