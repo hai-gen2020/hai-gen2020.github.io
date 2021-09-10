@@ -1,4 +1,7 @@
 
+
+PROCEEDINGS ARE NOW AVAILABLE ON CEUR: [HAI-GEN+user2agent 2020](http://ceur-ws.org/Vol-2848/)
+
 **This workshop will be held virtually via WebEx on March 17 East Coast time zone (EDT) starting 9 AM EDT.**
 Use the [Time Zone Converter](https://www.timeanddate.com/worldclock/converter.html?iso=20200317T130000&p1=346&p2=43&p3=37&p4=248&p5=102&p6=7&p7=256) if in doubt. We changed to daylight savings time last weekend, i.e. we are EDT not EST.
 
